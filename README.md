@@ -1,1 +1,1 @@
-# sea-todo-app
+# sqa-todo-app
